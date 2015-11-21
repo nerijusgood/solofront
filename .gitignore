@@ -6,7 +6,10 @@
 .tmp
 
 # Grav Specific
-
+data/comments/
+config/*
+!config/plugins
+!config/themes
 
 # OS Generated
 .DS_Store*

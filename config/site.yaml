@@ -1,9 +1,7 @@
-title: Solofront
+title: Grav
 author:
-  name: Nerijus Gudas
-  email: 'nerijus@solofront.com'
-blog:
-  route: ''
+  name: Joe Bloggs
+  email: 'joe@test.com'
 metadata:
     description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
-taxonomies: [category,tag,month]
+

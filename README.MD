@@ -3,4 +3,4 @@
 
 ## Setup
 
-`scp -r solofront.com nerijusg@nerijusgood.com:~/public_html/``
+`scp -r solofront.com nerijusg@nerijusgood.com:~/public_html/`

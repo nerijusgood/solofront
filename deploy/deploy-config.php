@@ -70,7 +70,10 @@ define('DELETE_FILES', false);
 define('EXCLUDE', serialize(array(
 	'.git',
     'deploy',
-    'themes/solofront-theme/src/',
+    'themes/solofront-theme/src',
+    'src',
+    'data',
+    'config',
 )));
 
 /**
