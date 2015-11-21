@@ -23,10 +23,6 @@ git:
         url: https://github.com/getgrav/grav-plugin-problems
         path: user/plugins/problems
         branch: master
-    random:
-        url: https://github.com/getgrav/grav-plugin-random
-        path: user/plugins/random
-        branch: master
     relatedpages:
         url: https://github.com/getgrav/grav-plugin-relatedpages
         path: user/plugins/relatedpages
@@ -42,10 +38,6 @@ git:
     taxonomylist:
         url: https://github.com/getgrav/grav-plugin-taxonomylist
         path: user/plugins/taxonomylist
-        branch: master
-    solofront:
-        url: https://github.com/nerijusgood/solofront-theme
-        path: user/themes/solofront-theme
         branch: master
 links:
     archives:
@@ -91,8 +83,4 @@ links:
     taxonomylist:
         src: grav-plugin-taxonomylist
         path: user/plugins/taxonomylist
-        scm: github
-    antimatter:
-        src: grav-theme-antimatter
-        path: user/themes/antimatter
         scm: github
