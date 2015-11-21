@@ -8,8 +8,7 @@
 # Grav Specific
 data/comments/
 config/*
-!config/plugins
-!config/themes
+plugins/
 
 # OS Generated
 .DS_Store*
