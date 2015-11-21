@@ -43,9 +43,9 @@ git:
         url: https://github.com/getgrav/grav-plugin-taxonomylist
         path: user/plugins/taxonomylist
         branch: master
-    antimatter:
-        url: https://github.com/getgrav/grav-theme-antimatter
-        path: user/themes/antimatter
+    solofront:
+        url: https://github.com/nerijusgood/solofront-theme
+        path: user/themes/solofront-theme
         branch: master
 links:
     archives:
