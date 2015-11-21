@@ -1,0 +1,11 @@
+email: nerijusgood@gmail.com
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+fullname: 'Nerijus Gudas'
+title: nerd
+hashed_password: $2y$10$f.6XJkC9MlTyt165G/KAKOP4H5M.RxgfMukbpfYKitlgxmYl09pQO
+language: en
