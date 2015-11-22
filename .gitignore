@@ -9,7 +9,6 @@
 data/comments/
 config/*
 plugins/
-themes/
 
 # OS Generated
 .DS_Store*
