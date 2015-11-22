@@ -8,6 +8,7 @@
 # Grav Specific
 data/comments/
 plugins/
+!config/plugins/
 themes/*
 !themes/solotheme
 
