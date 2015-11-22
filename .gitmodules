@@ -1,0 +1,3 @@
+[submodule "themes/solotheme"]
+	path = themes/solotheme
+	url = git@github.com:nerijusgood/solotheme.git
