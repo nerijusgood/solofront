@@ -7,8 +7,9 @@
 
 # Grav Specific
 data/comments/
-config/*
 plugins/
+themes/*
+!themes/solotheme
 
 # OS Generated
 .DS_Store*
