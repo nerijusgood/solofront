@@ -73,7 +73,6 @@ define('EXCLUDE', serialize(array(
     'themes/solofront-theme/src',
     'src',
     'data',
-    'config',
 )));
 
 /**
