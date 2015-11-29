@@ -50,7 +50,7 @@ form:
       name: g-recaptcha-response
       label: Captcha
       type: captcha
-      recatpcha_site_key: e32iojeoi32jeoi32jeoij32oiej32oiej3
+      recatpcha_site_key: 6Le5mhATAAAAAITv6KR5rSE_lCNH4PxQjXHj18xI
       recaptcha_not_validated: 'Captcha not valid!'
       validate:
         required: true
@@ -67,7 +67,7 @@ form:
         body: '{% include ''forms/data.html.twig'' %}'
     -
       captcha:
-        recatpcha_secret: ej32oiej23oiej32oijeoi32jeio32je
+        recatpcha_secret: 6Le5mhATAAAAAOoBKxuy40H63vYMbhrltRGgumAm
     -
       addComment: null
     -
