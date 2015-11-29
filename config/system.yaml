@@ -1,4 +1,5 @@
 absolute_urls: true
+timezone: Europe/Copenhagen
 param_sep: ':'
 wrapped_site: false
 languages:
@@ -13,11 +14,12 @@ home:
 pages:
   theme: solotheme
   order:
-    by: date
+    by: default
     dir: asc
   list:
     count: 20
   dateformat:
+    default: 'm/d/Y h:i a'
     short: 'jS M Y'
     long: 'D, d M Y G:i:s'
   publish_dates: true
@@ -86,6 +88,8 @@ assets:
   js_pipeline: false
   js_minify: false
   enable_asset_timestamp: false
+  collections:
+    jquery: 'system://assets/jquery/jquery-2.1.4.min.js'
 errors:
   display: false
   log: true
