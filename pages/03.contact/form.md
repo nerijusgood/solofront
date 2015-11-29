@@ -1,3 +1,4 @@
 ---
-title: Let get in touch
+title: Contacts
 ---
+

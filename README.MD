@@ -1,6 +1,5 @@
 #Solofront Grav theme
 
-
 ## Setup
 
 `wget zip`

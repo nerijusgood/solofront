@@ -1,16 +1,19 @@
 ---
-title: 'Customize Twitter Widget css (style) for any website'
+title: 'Custom twitter widget with css'
 published: true
-date: '21-12-2014 17:34'
-summary:
-    enabled: '1'
-    format: short
+date: '12/21/2014 05:34 pm'
+metadata:
+    demo: 'http://codepen.io/nerijusgood/pen/Ggqygo'
+    download: 'https://github.com/nerijusgood/custom-twitter-widget'
 taxonomy:
     tag:
         - js
         - tricks
     category:
         - blog
+summary:
+    enabled: '1'
+    format: short
 ---
 
 I recently encountered a situation where I needed to show twitter widget feed, more precisely a specific hashtag feed, in very custom styling: three columns in one row and, of course, make it responsive for different layout on smaller devices. In this post I will show how to customize twitter widget css, style and layout to fit your website.</p>

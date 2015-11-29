@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Home
 body_classes: 'header-image test'
 content:
     items: '@self.children'
@@ -17,3 +17,4 @@ feed:
     limit: 10
 pagination: true
 ---
+
