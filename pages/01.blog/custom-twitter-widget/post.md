@@ -21,10 +21,10 @@ I recently encountered a situation where I needed to show twitter widget feed, m
 ##1. Get Twitter widget ID
 Let's cut the chase, go create widget like you would normally in your twitter account and choose what kind of content you want to pull - your feed, someone else's feed or a custom query search (like a #hashtag). After saving it, you can find the ID of the widget in the URL (string of numbers), like shown in example:
 
-![Customize twitter widget css ID string](https://www.nerijusgood.com/wp-content/uploads/2014/12/twitter-widget-id.jpg)
+![Customize twitter widget css ID string](/user/pages/01.blog/custom-twitter-widget/img/twitter-widget-id.jpg)
 
 ##2. Fetch Twitter feed with small JS
-I spent some time testing few methods of how to pull twitter feed into your website, the easiest and most customizable way was the " <a rel="nofollow" href="https://github.com/jasonmayes/Twitter-Post-Fetcher" title="Twitter Post Fetcher">Twitter-Post-Fetcher</a>" git project by jasonmayes. It works fine with new Twitter 1.1 API, which is necessary to pull feeds.
+I spent some time testing few methods of how to pull twitter feed into your website, the easiest and most customizable way was the "<a rel="nofollow" href="https://github.com/jasonmayes/Twitter-Post-Fetcher" title="Twitter Post Fetcher">Twitter-Post-Fetcher</a>" git project by jasonmayes. It works fine with new Twitter 1.1 API, which is necessary to pull feeds.
 
 Now you just need to load this minified js file to your html and add twitter widget ID(s) to js and appropriate html tag IDs to show where to output the information. The Twitter Fetchers has more features and settings, but you can use the one I have pre-made to save you some time.
 
@@ -71,5 +71,3 @@ Here is the fun part - customize twitter widget css. The js will spawn the desir
 ```
 
 If you look closely, almost all elements have classes or specific data attribute (<em>data-scribe="something"</em>)  that you can target. The rest is up to your creativity, feel free to get inspired with my examples.
-
-Please share your examples in the comments.

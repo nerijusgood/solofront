@@ -1,13 +1,13 @@
 ---
 title: 'Smart social nav menus with SASS and Font Awesome'
 published: true
-publish_date: '11-09-2014 00:00'
-summary:
-    enabled: '1'
-    format: short
+publish_date: '09/11/2014 12:00 am'
 taxonomy:
     tag:
         - CSS
+summary:
+    enabled: '1'
+    format: short
 ---
 
 This post is an addition to Justin Todlock's 'Social Nav Menus' tutorial series on how to include social sharing links to your WordPress (or any other) website. You can find the original posts here: <a href="http://justintadlock.com/archives/2013/08/07/social-media-nav-menus" title="Justin Todlocks social nav pt1" target="_blank">part one</a> and <a href="http://justintadlock.com/archives/2013/08/14/social-nav-menus-part-2" title="Justin Todlocks social nav" target="_blank">part two</a>. </p><p>Justin Todlock has provided us with an excellent way how to deal with social sharing link design in our websites by targeting link html attribute. I think this is a very smart way to solve this issue, however I am a big fan of SASS and I believe that his method can be simplified a little bit more. Before we dig into SASS I will go through the Justin's method so we would be on the same page (of course you can fallow the <a href="http://justintadlock.com/archives/2013/08/07/social-media-nav-menus" title="Justin Tadlock: social nav menus" target="_blank">original posts</a> too).
