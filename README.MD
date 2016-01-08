@@ -8,11 +8,11 @@ Download latest release: (get url [here](https://github.com/getgrav/grav/release
 Unzip:
 `unzip zip`
 
-// Install grav:
-// `bin/grav install`
-
 Rename folder to whatever you want on server:
 `mv grav solofront.com`
 
 Move folder to desired folder on *server*:
 `scp -r solofront.com nerijusg@nerijusgood.com:~/public_html/`
+
+ssh to server and install plugins/updates:
+`bin/grav install`
