@@ -8,4 +8,4 @@ taxonomy:
         - blog
 ---
 
-Test
+Hello & welcome
