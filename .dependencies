@@ -1,11 +1,19 @@
 git:
+    admin:
+        url: https://github.com/getgrav/grav-plugin-admin
+        path: user/plugins/admin
+        branch: master
     archives:
         url: https://github.com/getgrav/grav-plugin-archives
         path: user/plugins/archives
         branch: master
-    breadcrumbs:
-        url: https://github.com/getgrav/grav-plugin-breadcrumbs
-        path: user/plugins/breadcrumbs
+    comments:
+        url: https://github.com/getgrav/grav-plugin-comments
+        path: user/plugins/comments
+        branch: master
+    email:
+        url: https://github.com/getgrav/grav-plugin-email
+        path: user/plugins/email
         branch: master
     error:
         url: https://github.com/getgrav/grav-plugin-error
@@ -14,6 +22,14 @@ git:
     feed:
         url: https://github.com/getgrav/grav-plugin-feed
         path: user/plugins/feed
+        branch: master
+    form:
+        url: https://github.com/getgrav/grav-plugin-form
+        path: user/plugins/form
+        branch: master
+    login:
+        url: https://github.com/getgrav/grav-plugin-login
+        path: user/plugins/login
         branch: master
     pagination:
         url: https://github.com/getgrav/grav-plugin-pagination
@@ -40,13 +56,21 @@ git:
         path: user/plugins/taxonomylist
         branch: master
 links:
+    admin:
+        src: grav-plugin-admin
+        path: user/plugins/admin
+        scm: github
     archives:
         src: grav-plugin-archives
         path: user/plugins/archives
         scm: github
-    breadcrumbs:
-        src: grav-plugin-breadcrumbs
-        path: user/plugins/breadcrumbs
+    comments:
+        src: grav-plugin-comments
+        path: user/plugins/comments
+        scm: github
+    email:
+        src: grav-plugin-email
+        path: user/plugins/email
         scm: github
     error:
         src: grav-plugin-error
@@ -55,6 +79,14 @@ links:
     feed:
         src: grav-plugin-feed
         path: user/plugins/feed
+        scm: github
+    form:
+        src: grav-plugin-form
+        path: user/plugins/form
+        scm: github
+    login:
+        src: grav-plugin-login
+        path: user/plugins/login
         scm: github
     pagination:
         src: grav-plugin-pagination
