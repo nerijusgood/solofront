@@ -1,0 +1,14 @@
+enabled: true
+from: nerijusgood@gmail.com
+from_name: 'Nerijus Gudas'
+to: nerijusgood@gmail.com
+to_name: Solofront
+mailer:
+  engine: mail
+  smtp:
+    server: localhost
+    port: 25
+    encryption: none
+  sendmail:
+    bin: /usr/sbin/sendmail
+content_type: text/html

@@ -1,0 +1,5 @@
+enabled: true
+limit: 10
+description: 'Solofront - front-end development, javascript, technologies, nodejs and other magical development thingies.'
+lang: en-us
+length: 500
