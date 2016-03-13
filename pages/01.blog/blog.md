@@ -12,7 +12,7 @@ content:
     pagination: true
     url_taxonomy_filters: true
     order:
-        dir: asc
+        dir: desc
         by: date
 sitemap:
     changefreq: monthly
