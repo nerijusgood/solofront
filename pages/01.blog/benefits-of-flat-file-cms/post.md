@@ -1,6 +1,6 @@
 ---
 title: 'Benefits of Flat-File CMS '
-published: true
+published: false
 taxonomy:
     tag:
         - CMS
