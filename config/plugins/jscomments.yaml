@@ -1,0 +1,19 @@
+enabled: true
+providers:
+  disqus:
+    shortname: solofront
+    default_lang: en
+  facebook:
+    lang: en_US
+    num_posts: 5
+    colorscheme: light
+    order_by: social
+    width: 100%
+  muut:
+    channel: General
+    show_online: false
+    show_title: false
+    upload: false
+    share: true
+    widget: false
+    lang: en
