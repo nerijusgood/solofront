@@ -1,5 +1,8 @@
 ---
 title: 'Javascript ES6 Utilities: Tiny script to detect Media Queries'
+taxonomy:
+    tag:
+        - js
 ---
 
 Almost every web project I get involved with I end up reusing parts of code to kick-start things. It is widely accepted to use reset.css, normalize.css, and internet is full of styling pre-processor mixins, helpers, functions and other universal chunks of code.
